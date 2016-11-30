@@ -1,0 +1,8 @@
+﻿body {
+    background-image: url('../../Resource/Book_index/tkam-painting-idea.jpg');
+    background-size: contain;
+   }
+.nav_bg_color {
+    background-color: black;
+    opacity: 0.85;
+}

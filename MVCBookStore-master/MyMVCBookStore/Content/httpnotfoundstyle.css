@@ -1,0 +1,52 @@
+html {
+  font-size: 62.5%; 
+}
+
+body {
+  font-size: 2em;
+  line-height: 1.6;
+  font-weight: 400;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #222;
+  background-color: gray;
+  padding:3rem 0rem 7rem 0rem; 
+}
+
+@media (min-width: 550px) {
+  .container {
+    width: 80%; }
+  }
+.row {
+	 position: fixed; 
+	 top: 50%; 
+	 left: 50%; 
+	 margin-top: -100px; 
+	 margin-left: -100px; }  
+ 
+.container {
+  position: relative;
+  width: 100%;
+  
+  margin: 0 auto;
+  padding: 0 20px;
+
+}
+
+
+.sub-heading {
+	font-size: 1.5rem;
+	text-align:center;
+	color: #FFFB81;
+	margin: 10px 0; }
+
+hr.hr-style-404 {
+    border: 0;
+    height: 1px;
+	width: 220px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(255, 200, 20, 0.65), rgba(0, 0, 0, 0)); }
+.redirect-style-404{
+	color: #ffffff; }
+.btn_home {
+    margin-left: 36%;
+    color: gray;
+}

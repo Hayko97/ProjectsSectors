@@ -1,0 +1,65 @@
+﻿.header {
+    background-color: black;
+    -ms-opacity: 0.9;
+    opacity: 0.9;
+    color: red;
+}
+
+div.grid-header-title a {
+    color: antiquewhite;
+    opacity: 0.8;
+}
+
+div.grid-header-title span {
+    color: antiquewhite;
+    opacity: 0.8;
+}
+.table_body_color {
+    background-color: #242E30;
+    opacity: 0.99;
+    color: #cccccc;
+}
+td.grid-cell div a {
+    text-decoration: none;
+    color: green;
+}
+
+    td.grid-cell div a:hover {
+        text-decoration: none;
+        color: red;
+    }
+
+#imgId {
+    border: 1px solid white;
+}
+
+    #imgId:hover {
+        -moz-box-shadow: 0 0 30px #ccc;
+        -webkit-box-shadow: 0 0 30px #ccc;
+        box-shadow: 0 0 30px #ccc;
+    }
+
+.imgClass {
+    margin-left: 14px;
+}
+.pagination li span {
+    color: yellow !important;
+    background-color: black !important;
+    border: 1px solid white !important;
+}
+
+.pagination {
+    padding-left: 22px;
+}
+.btn_color{
+    background-color:white;
+}
+tr td ul li {
+    text-decoration:none;
+}
+.gir_style {
+    border: solid 1px;
+    border-radius: 10px;
+    color: #242e30;
+    background-image: url('/Resource/Book_index/tkam-painting-idea.jpg');
+}
